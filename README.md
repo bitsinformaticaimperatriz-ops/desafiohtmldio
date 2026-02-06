@@ -19,7 +19,7 @@ Formulários: Coleta de dados e interação.
 Semântica: Melhores práticas para SEO e acessibilidade.
 
 🛠️ Tecnologias e Recursos
-HTML5 Semântico: Uso de tags como <nav>, <section>, <footer>, e <small>.
+HTML5 Semântico: Uso de tags como nav, section, footer, e small.
 
 Navegação Interna: Links de âncoras para facilitar a leitura.
 
