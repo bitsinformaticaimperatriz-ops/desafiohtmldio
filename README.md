@@ -31,7 +31,7 @@ Como o projeto utiliza apenas HTML puro, não é necessário instalar dependênc
 Clone este repositório:
 
 Bash
-git clone https://bitsinformaticaimperatriz-ops/desafiohtmldio
+git clone (https://github.com/bitsinformaticaimperatriz-ops/desafiohtmldio)
 Abra o arquivo index.html em seu navegador preferido.
 
 👤 Autor
